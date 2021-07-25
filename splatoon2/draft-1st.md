@@ -7,6 +7,12 @@ img {
   object-fit: cover;
   border-radius: 50%;
 }
+
+h3 {
+  font-size: 1.5em;
+  padding: 10px 15px;
+  background-color: #fce9e9;
+}
 </style>
 
 ## SFCドラフト杯とは
@@ -153,7 +159,7 @@ img {
 **寸評：その対面力はXにも引けを取らないほど強力。また持ち替えの効くブキがどんな編成の穴をも埋めてくれそうなのが魅力か**  
 
 ### そうちゃん
-![](https://raw.githubusercontent.com/onzo-gc/onzo-gc.github.io/master/images/そうちゃん.png)
+![](https://raw.githubusercontent.com/onzo-gc/onzo-gc.github.io/master/images/そうちゃん.jpg)
 
 **ウデマエS**  
 **ブキ：わかばシューター、52ガロンベッチュー**  
