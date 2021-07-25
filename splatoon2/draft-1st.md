@@ -116,8 +116,8 @@ img {
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/pza8q9?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 **ウデマエX　XP2256**  
-**ブキ：スプラローラー、ハイダラントカスタム、パブロ**  
-**寸評：その縦振りは高台の敵やジャンプを刈ろうとしている敵、さらには空飛ぶジェットパックまでもを打ち落とす。後衛とパブロという編成のかなめとなる武器を持てるのも魅力**  
+**ブキ：スプラローラー、ハイドラントカスタム、パブロ**  
+**寸評：その縦振りは高台の敵やジャンプを刈ろうとしている敵、さらには空飛ぶジェットパックまでもを打ち落とす。後衛とパブロという編成の要となる武器を持てるのも魅力**  
 
 ### アルパカ
 ![](https://raw.githubusercontent.com/onzo-gc/onzo-gc.github.io/master/images/アルパカ.jpg)
@@ -150,7 +150,7 @@ img {
 
 **ウデマエS**  
 **ブキ：スプラシューターベッチュー、52ガロンベッチュー、N-ZAP85**  
-**寸評：その対面力はXにも引けを取らないほど強力。また持ち替えの効くブキがどんな編成の穴をも埋めてくれそうなのがみりょくか**  
+**寸評：その対面力はXにも引けを取らないほど強力。また持ち替えの効くブキがどんな編成の穴をも埋めてくれそうなのが魅力か**  
 
 ### そうちゃん
 ![](https://raw.githubusercontent.com/onzo-gc/onzo-gc.github.io/master/images/そうちゃん.png)
