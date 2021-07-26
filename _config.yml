@@ -2,3 +2,6 @@ theme: jekyll-theme-minimal
 
 title: "音像杯(非公式)"
 logo: images/logo.jpg
+
+github:
+  is_project_page: false
