@@ -140,7 +140,7 @@ it’a true wolrd．狂ってる？それ、誉め言葉ね。
 ```
 
 ### shino(よしあき)
-![](https://raw.githubusercontent.com/onzo-gc/onzo-gc.github.io/master/images/2nd/AFKの王.JPG)  
+![](https://raw.githubusercontent.com/onzo-gc/onzo-gc.github.io/master/images/2nd/shino.jpg)  
 <iframe src="https://drive.google.com/file/d/11QGCdFo9FdDjXABQXFn3QocDPZ8bOdJ7/preview" width="500" height="281" allow="autoplay"></iframe>
 **XP: 2566**  
 ブキ:チャー、ヒッセン、ダイナモ、風呂  
