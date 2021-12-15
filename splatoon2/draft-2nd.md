@@ -201,6 +201,7 @@ it’a true wolrd．狂ってる？それ、誉め言葉ね。
 ```
 
 ### コロロロン
+![](https://raw.githubusercontent.com/onzo-gc/onzo-gc.github.io/master/images/2nd/coron.jpg)  
 **XP: 22499.9999（詐欺）**  
 ブキ:銅モデラー、復活ペナルティ  
 意気込み:
