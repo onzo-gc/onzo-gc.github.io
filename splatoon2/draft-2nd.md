@@ -54,7 +54,7 @@ pre {
 
 ### あ
 ![](https://raw.githubusercontent.com/onzo-gc/onzo-gc.github.io/master/images/2nd/あ.jpg)  
-<iframe src="https://drive.google.com/file/d/1WFFyk14WjTaKVjMd49c5FacI1iqk6CzK/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1WFFyk14WjTaKVjMd49c5FacI1iqk6CzK/preview" width="500" height="375" allow="autoplay"></iframe>
 **XP: 2520**  
 ブキ:チャー、スシ、パブロ  
 意気込み:
@@ -67,7 +67,7 @@ l　　 ⊃　⌒_つ
 
 ### しゅーりん
 ![](https://raw.githubusercontent.com/onzo-gc/onzo-gc.github.io/master/images/2nd/しゅーりん.jpg)  
-<iframe src="https://drive.google.com/file/d/1tqVZqMx-Ht6GMZjpeUjPtw9sz1C0BKxd/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1tqVZqMx-Ht6GMZjpeUjPtw9sz1C0BKxd/preview" width="500" height="375" allow="autoplay"></iframe>
 **XP: 2531**  
 ブキ:キャンピングシェルター種  
 意気込み:
@@ -77,7 +77,7 @@ l　　 ⊃　⌒_つ
 
 ### ふぁろん
 ![](https://raw.githubusercontent.com/onzo-gc/onzo-gc.github.io/master/images/2nd/ふぁろん.jpg)  
-<iframe src="https://drive.google.com/file/d/1zrWibWuiC790FH3omhuwqia3x6raedT4/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1zrWibWuiC790FH3omhuwqia3x6raedT4/preview" width="500" height="375" allow="autoplay"></iframe>
 **XP: 2723**  
 ブキ:L3D  
 寸評:
@@ -88,7 +88,7 @@ l　　 ⊃　⌒_つ
 ## 参加者
 ### ぺー
 ![](https://raw.githubusercontent.com/onzo-gc/onzo-gc.github.io/master/images/ぺー.jpg)  
-<iframe src="https://drive.google.com/file/d/1zrWibWuiC790FH3omhuwqia3x6raedT4/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1zrWibWuiC790FH3omhuwqia3x6raedT4/preview" width="500" height="375" allow="autoplay"></iframe>
 **XP: 2280（詐欺）**  
 ブキ:短射程シューター  
 意気込み:
@@ -98,7 +98,7 @@ l　　 ⊃　⌒_つ
 
 ### AFKの王
 ![](https://raw.githubusercontent.com/onzo-gc/onzo-gc.github.io/master/images/2nd/AFKの王.JPG)  
-<iframe src="https://drive.google.com/file/d/1WE_0STSAm2YoV9gMYJoXr6uaN0mpCRER/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1WE_0STSAm2YoV9gMYJoXr6uaN0mpCRER/preview" width="500" height="375" allow="autoplay"></iframe>
 **XP: 2403**  
 ブキ:エクス種、ハイドラント種  
 意気込み:
@@ -108,7 +108,7 @@ l　　 ⊃　⌒_つ
 
 ### まさ
 ![](https://raw.githubusercontent.com/onzo-gc/onzo-gc.github.io/master/images/2nd/まさ.JPG)  
-<iframe src="https://drive.google.com/file/d/1FH33-RVGvm28dgkkixcXY1SfU5W2pxfR/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1FH33-RVGvm28dgkkixcXY1SfU5W2pxfR/preview" width="500" height="375" allow="autoplay"></iframe>
 **XP: 2580**  
 ブキ:スシ  
 寸評:
@@ -141,7 +141,7 @@ it’a true wolrd．狂ってる？それ、誉め言葉ね。
 
 ### shino(よしあき)
 ![](https://raw.githubusercontent.com/onzo-gc/onzo-gc.github.io/master/images/2nd/AFKの王.JPG)  
-<iframe src="https://drive.google.com/file/d/11QGCdFo9FdDjXABQXFn3QocDPZ8bOdJ7/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/11QGCdFo9FdDjXABQXFn3QocDPZ8bOdJ7/preview" width="500" height="375" allow="autoplay"></iframe>
 **XP: 2566**  
 ブキ:チャー、ヒッセン、ダイナモ、風呂  
 意気込み:
@@ -151,7 +151,7 @@ it’a true wolrd．狂ってる？それ、誉め言葉ね。
 
 ### ジョア
 ![](https://raw.githubusercontent.com/onzo-gc/onzo-gc.github.io/master/images/2nd/ジョア.JPG)  
-<iframe src="https://drive.google.com/file/d/1esZdZazOgLSFsA39MzMCk4DM6BKhbSJz/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1esZdZazOgLSFsA39MzMCk4DM6BKhbSJz/preview" width="500" height="375" allow="autoplay"></iframe>
 **XP: 2509**  
 ブキ:スシべ　4kスコープ　スクイックリン  
 寸評:
@@ -165,7 +165,7 @@ it’a true wolrd．狂ってる？それ、誉め言葉ね。
 
 ### かいと
 ![](https://raw.githubusercontent.com/onzo-gc/onzo-gc.github.io/master/images/2nd/かいと.JPG)  
-<iframe src="https://drive.google.com/file/d/1mLY0DLKwxy2Y4OAEKwP5Bl5vzezJhNFx/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1mLY0DLKwxy2Y4OAEKwP5Bl5vzezJhNFx/preview" width="500" height="375" allow="autoplay"></iframe>
 **XP: 2732**  
 ブキ:スロッシャー系、ブラスター系全般  
 意気込み:
@@ -192,7 +192,7 @@ it’a true wolrd．狂ってる？それ、誉め言葉ね。
 
 ### ほむ
 ![](https://raw.githubusercontent.com/onzo-gc/onzo-gc.github.io/master/images/2nd/ほむ.JPG)  
-<iframe src="https://drive.google.com/file/d/1U-qcRsVx_ghNrGbGUD4_ey_RWgkp4MOM/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1U-qcRsVx_ghNrGbGUD4_ey_RWgkp4MOM/preview" width="500" height="375" allow="autoplay"></iframe>
 **XP: 2300**  
 ブキ:ヒッセン、アーマー  
 寸評:
@@ -219,7 +219,7 @@ it’a true wolrd．狂ってる？それ、誉め言葉ね。
 
 ### さざえわくわく
 ![](https://raw.githubusercontent.com/onzo-gc/onzo-gc.github.io/master/images/2nd/sazaesan.png)  
-<iframe src="https://drive.google.com/file/d/1BKQUyzp66DwGb0V8_UFz9nlLFe-SgwDY/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1BKQUyzp66DwGb0V8_UFz9nlLFe-SgwDY/preview" width="500" height="375" allow="autoplay"></iframe>
 **XP: 2652**  
 ブキ:ボールドマーカー  
 意気込み:
