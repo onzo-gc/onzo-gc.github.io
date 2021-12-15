@@ -40,6 +40,7 @@ pre {
 ## 選手紹介
 ## 運営
 ### Re:Volt
+![](https://raw.githubusercontent.com/onzo-gc/onzo-gc.github.io/master/images/2nd/rom.png)  
 ハイプレ使い。人が足りないときはよんでね、穴埋めします。
 ## 主将
 ### ともぞう
