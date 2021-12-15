@@ -73,6 +73,7 @@ l　　 ⊃　⌒_つ
 ```
 
 ### ふぁろん
+<iframe src="https://drive.google.com/file/d/1zrWibWuiC790FH3omhuwqia3x6raedT4/preview" width="640" height="480" allow="autoplay"></iframe>
 **XP: 2723**  
 ブキ:L3D  
 寸評:
@@ -92,6 +93,7 @@ l　　 ⊃　⌒_つ
 
 ### AFKの王
 ![](https://raw.githubusercontent.com/onzo-gc/onzo-gc.github.io/master/images/2nd/AFKの王.JPG)  
+<iframe src="https://drive.google.com/file/d/1WE_0STSAm2YoV9gMYJoXr6uaN0mpCRER/preview" width="640" height="480" allow="autoplay"></iframe>
 **XP: 2403**  
 ブキ:エクス種、ハイドラント種  
 意気込み:
