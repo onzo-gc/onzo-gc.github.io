@@ -13,6 +13,10 @@ h3 {
   padding: 10px 15px;
   background-color: #fce9e9;
 }
+
+pre {
+  white-space: pre-wrap ;
+}
 </style>
 
 ## SFCドラフト杯とは
@@ -34,11 +38,14 @@ h3 {
 - 当日の試合開始は12/28の22:30から行う予定です。対戦表等は後日発表となります
 
 ## 選手紹介
+## 運営
+### Re:Volt
+ハイプレ使い。人が足りないときはよんでね、穴埋めします。
 ## 主将
 ### ともぞう
 ![](https://raw.githubusercontent.com/onzo-gc/onzo-gc.github.io/master/images/ともぞう.png)  
-**XP: 2403**
-ブキ: ラピべ、スクスロ
+**XP: 2403**  
+ブキ: ラピべ、スクスロ  
 意気込み:
 ```
 りーだーやりたいです。まえにつっこんでくれるおともだちとなかよくなりたいです。
@@ -46,8 +53,8 @@ h3 {
 
 ### あ
 ![](https://raw.githubusercontent.com/onzo-gc/onzo-gc.github.io/master/images/2nd/あ.jpg)  
-**XP: 2520**
-ブキ:チャー、スシ、パブロ
+**XP: 2520**  
+ブキ:チャー、スシ、パブロ  
 意気込み:
 ```
  .,,..,,,,_
@@ -58,16 +65,16 @@ l　　 ⊃　⌒_つ
 
 ### しゅーりん
 ![](https://raw.githubusercontent.com/onzo-gc/onzo-gc.github.io/master/images/2nd/しゅーりん.jpg)  
-**XP: 2531**
-ブキ:キャンピングシェルター種
+**XP: 2531**  
+ブキ:キャンピングシェルター種  
 意気込み:
 ```
 進級と抑えは任せろ
 ```
 
 ### ふぁろん
-**XP: 2723**
-ブキ:L3D
+**XP: 2723**  
+ブキ:L3D  
 寸評:
 ```
 スプラトゥーンというゲームに対しての理解度が高く、マルチにブキを使いこなす。ただしガキ。
@@ -76,8 +83,8 @@ l　　 ⊃　⌒_つ
 ## 参加者
 ### ぺー
 ![](https://raw.githubusercontent.com/onzo-gc/onzo-gc.github.io/master/images/ぺー.jpg)  
-**XP: 2280（詐欺）**
-ブキ:短射程シューター
+**XP: 2280（詐欺）**  
+ブキ:短射程シューター  
 意気込み:
 ```
 ウオオオオオオオオオオオオオオ！！！！！！！！！！！！！！！(カバディ)
@@ -85,8 +92,8 @@ l　　 ⊃　⌒_つ
 
 ### AFKの王
 ![](https://raw.githubusercontent.com/onzo-gc/onzo-gc.github.io/master/images/2nd/AFKの王.JPG)  
-**XP: 2403**
-ブキ:エクス種、ハイドラント種
+**XP: 2403**  
+ブキ:エクス種、ハイドラント種  
 意気込み:
 ```
 頑張って卒論終わらせます
@@ -94,8 +101,8 @@ l　　 ⊃　⌒_つ
 
 ### まさ
 ![](https://raw.githubusercontent.com/onzo-gc/onzo-gc.github.io/master/images/2nd/まさ.JPG)  
-**XP: 2580**
-ブキ:スシ
+**XP: 2580**  
+ブキ:スシ  
 寸評:
 ```
 ついに参戦した慶應のホープ。そのエイムが欲しい。（nkpさんより）
@@ -103,8 +110,8 @@ l　　 ⊃　⌒_つ
 
 ### nkpoid
 ![](https://raw.githubusercontent.com/onzo-gc/onzo-gc.github.io/master/images/2nd/nkpoid.jpg)  
-**XP: 2441**
-ブキ:ハイドラントカスタム
+**XP: 2441**  
+ブキ:ハイドラントカスタム  
 意気込み:
 ```
 初カキコ…ども…
@@ -126,8 +133,8 @@ it’a true wolrd．狂ってる？それ、誉め言葉ね。
 
 ### shino(よしあき)
 ![](https://raw.githubusercontent.com/onzo-gc/onzo-gc.github.io/master/images/2nd/AFKの王.JPG)  
-**XP: 2566**
-ブキ:チャー、ヒッセン、ダイナモ、風呂
+**XP: 2566**  
+ブキ:チャー、ヒッセン、ダイナモ、風呂  
 意気込み:
 ```
 ぼくはわるいちゃーじゃないよ、ばんしないでね
@@ -135,8 +142,8 @@ it’a true wolrd．狂ってる？それ、誉め言葉ね。
 
 ### ジョア
 ![](https://raw.githubusercontent.com/onzo-gc/onzo-gc.github.io/master/images/2nd/ジョア.JPG)  
-**XP: 2509**
-ブキ:スシべ　4kスコープ　スクイックリン
+**XP: 2509**  
+ブキ:スシべ　4kスコープ　スクイックリン  
 寸評:
 ```
 数々の名言を残した理解大の五条悟ことジョアが降臨する。ちなみにハンネのジョアはトリコ由来。
@@ -148,8 +155,8 @@ it’a true wolrd．狂ってる？それ、誉め言葉ね。
 
 ### かいと
 ![](https://raw.githubusercontent.com/onzo-gc/onzo-gc.github.io/master/images/2nd/かいと.JPG)  
-**XP: 2732**
-ブキ:スロッシャー系、ブラスター系全般
+**XP: 2732**  
+ブキ:スロッシャー系、ブラスター系全般  
 意気込み:
 ```
 2年ぶりにスプラトゥーンしてますがよろしくお願いします。この前の計測は2190でした。指示だけは一丁前に出せます。
@@ -157,8 +164,8 @@ it’a true wolrd．狂ってる？それ、誉め言葉ね。
 
 ### かぐ
 ![](https://raw.githubusercontent.com/onzo-gc/onzo-gc.github.io/master/images/2nd/kag.jpg)  
-**XP: 2424**
-ブキ:ガロン種(今は96デコにお熱),ノーチラス種, 前中衛なら大抵
+**XP: 2424**  
+ブキ:ガロン種(今は96デコにお熱),ノーチラス種, 前中衛なら大抵  
 意気込み:
 ```
 【ブロック塗り】
@@ -174,16 +181,16 @@ it’a true wolrd．狂ってる？それ、誉め言葉ね。
 
 ### ほむ
 ![](https://raw.githubusercontent.com/onzo-gc/onzo-gc.github.io/master/images/2nd/ほむ.JPG)  
-**XP: 2300**
-ブキ:ヒッセン、アーマー
+**XP: 2300**  
+ブキ:ヒッセン、アーマー  
 寸評:
 ```
 好んで使用するブキの欄、みんなブキ種書いてるのに私だけなぜかスペシャル書いてて頭おかしいんかと思ったけど、コロンくんギア書いてたから私の方がマシだった
 ```
 
 ### コロロロン
-**XP: 22499.9999（詐欺）**
-ブキ:銅モデラー、復活ペナルティ
+**XP: 22499.9999（詐欺）**  
+ブキ:銅モデラー、復活ペナルティ  
 意気込み:
 ```
 圧倒的空気
@@ -191,8 +198,8 @@ it’a true wolrd．狂ってる？それ、誉め言葉ね。
 
 ### 虚無
 ![](https://raw.githubusercontent.com/onzo-gc/onzo-gc.github.io/master/images/免許めう.PNG)  
-**XP: 22 ごめん22いってたと思うけど嘘かも**
-ブキ:ごにべ、すしべ、わかば
+**XP: 22 ごめん22いってたと思うけど嘘かも**  
+ブキ:ごにべ、すしべ、わかば  
 意気込み:
 ```
 ひと月半エリアしてないのでS+だと思ってください　ｴｹﾁｪﾝ
@@ -200,8 +207,8 @@ it’a true wolrd．狂ってる？それ、誉め言葉ね。
 
 ### さざえわくわく
 ![](https://raw.githubusercontent.com/onzo-gc/onzo-gc.github.io/master/images/2nd/sazaesan.png)  
-**XP: 2652**
-ブキ:ボールドマーカー
+**XP: 2652**  
+ブキ:ボールドマーカー  
 意気込み:
 ```
 勝って甲子園行きます！！！！
