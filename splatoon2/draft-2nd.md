@@ -88,7 +88,7 @@ l　　 ⊃　⌒_つ
 ## 参加者
 ### ぺー
 ![](https://raw.githubusercontent.com/onzo-gc/onzo-gc.github.io/master/images/ぺー.jpg)  
-<iframe src="https://drive.google.com/file/d/1QbJTQAyapp_frKR5UXGJsh7zrpcyU_EN/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1QbJTQAyapp_frKR5UXGJsh7zrpcyU_EN/preview" width="500" height="281" allow="autoplay"></iframe>
 **XP: 2280（詐欺）**  
 ブキ:短射程シューター  
 意気込み:
